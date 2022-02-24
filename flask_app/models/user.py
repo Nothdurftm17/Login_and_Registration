@@ -16,7 +16,7 @@ class User:
         self.created_at = data['created_at']
         self.updated_at = data['updated_at']
 
-        self.teams = []
+
 
 #========================================================================
 #validates the registration entry
